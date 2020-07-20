@@ -12,3 +12,4 @@ C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid
 C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\SctackGrid.pdb
 C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\SctackGrid.csproj.CoreCompileInputs.cache
 C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DELL\Documents\Proyectos Xamarin Forms\SctackGrid\SctackGrid\SctackGrid\obj\Debug\netstandard2.0\Page.xaml.g.cs
